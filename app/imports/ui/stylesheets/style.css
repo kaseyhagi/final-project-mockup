@@ -19,7 +19,21 @@ h1 {
 .vendor-page-body{
   margin:20px;
 }
+.home-page-body{
+  background-color: rgba(0, 0, 0, 0.87);
 
+  min-height:400px;
+}
+.home-page-header{
+  padding: 20px;
+  font-family: 'Unica One', sans-serif;
+  font-size: 50px;
+
+  color:white;
+}
+.food.card{
+background-color: #D3D3D3;
+}
 h2 {
   font-family: 'Unica One', sans-serif;
   /*font-family: 'Bungee Hairline', sans-serif;*/
