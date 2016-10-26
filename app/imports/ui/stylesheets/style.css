@@ -16,6 +16,10 @@ h1 {
   vertical-align: middle;
 
 }
+.vendor-page-body{
+  margin:20px;
+}
+
 h2 {
   font-family: 'Unica One', sans-serif;
   /*font-family: 'Bungee Hairline', sans-serif;*/

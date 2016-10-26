@@ -13,7 +13,18 @@ FlowRouter.route('/home', {
     BlazeLayout.render('App_Body', { main: 'Home_Page' });
   },
 });
-
+FlowRouter.route('/user', {
+  name: 'User_Profile_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'User_Profile_Page' });
+  },
+});
+FlowRouter.route('/vendor', {
+  name: 'Vendor_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'Vendor_Page' });
+  },
+});
 FlowRouter.route('/list', {
   name: 'List_Stuff_Page',
   action() {
