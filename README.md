@@ -9,7 +9,7 @@
 <img class="ui medium right floated image" src="https://github.com/kaseyhagi/final-project-mockup/blob/master/doc/user-profile.JPG">
 
 # Vendor Page
-<img class="ui medium right floated image" src="https://github.com/kaseyhagi/final-project-mockup/blob/master/doc/vendor-page.JPG">
+<img class="ui medium right floated image" src="https://github.com/kaseyhagi/final-project-mockup/blob/master/doc/vendor-page2.JPG">
 
 # List of all vendors
 <img class="ui medium right floated image" src="https://github.com/kaseyhagi/final-project-mockup/blob/master/doc/list-of-vendors.JPG">
