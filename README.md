@@ -1,8 +1,8 @@
 # Public Landing Page
-<img class="ui medium right floated image" src="https://github.com/kaseyhagi/final-project-mockup/blob/master/doc/public-landing-page.jpg">
+<img class="ui medium right floated image" src="https://github.com/kaseyhagi/final-project-mockup/blob/master/doc/public-landing-page.JPG">
 
 # User Home Page
-<img class="ui medium right floated image" src="https://github.com/kaseyhagi/final-project-mockup/blob/master/doc/user-home-page.jpg">
+<img class="ui medium right floated rounded image" src="https://github.com/kaseyhagi/final-project-mockup/blob/master/doc/user-home-page.jpg">
 
 # User Profile Page
 
