@@ -2,7 +2,7 @@
 <img class="ui medium right floated image" src="https://github.com/kaseyhagi/final-project-mockup/blob/master/doc/public-landing-page.JPG">
 
 # User Home Page
-<img class="ui medium right floated image" src="https://github.com/kaseyhagi/final-project-mockup/blob/master/doc/user-home-page.JPG">
+<img class="ui medium right floated image" src="https://github.com/kaseyhagi/final-project-mockup/blob/master/doc/user-home-page2.JPG">
 
 # User Profile Page
 
