@@ -1,13 +1,16 @@
 <template name="Header">
   <div class="ui top fixed borderless inverted menu">
     <div class="ui container">
+
       <a class="item title" href="{{pathFor 'Public_Landing_Page'}}"><h1>MANOA Munchies</h1></a>
       <!--{{#if currentUser}}-->
-      <a class="{{ isActiveRoute 'User_Profile_Page'}} item" href="{{ pathFor 'User_Profile_Page' }}">Profile</a>
-      <a class="{{ isActiveRoute 'List_Stuff_Page'}} item" href="{{ pathFor 'List_Stuff_Page' }}">Faves</a>
-      <a class="{{ isActiveRoute 'Vendor_Page'}} item" href="{{ pathFor 'Vendor_Page' }}">Vendors</a>
+      <a class="{{ isActiveRoute 'Vendors_Page'}} item" href="{{ pathFor 'Vendors_Page' }}"> <i class="food icon"></i>Vendors</a>
+      <a class="{{ isActiveRoute 'User_Profile_Page'}} item" href="{{ pathFor 'User_Profile_Page' }}"> <i class="heart icon"></i>Faves</a>
+      <a class="{{ isActiveRoute 'Admin_Home_Page'}} item" href="{{ pathFor 'Admin_Home_Page' }}"> <i class="edit icon"></i>Manage</a>
+
       <!--{{/if}}-->
       <!--<a href="#" class="item">{{> loginButtons }} </a>-->
     </div>
+
   </div>
 </template>

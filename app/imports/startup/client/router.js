@@ -7,6 +7,12 @@ FlowRouter.route('/', {
     BlazeLayout.render('App_Body', { main: 'Public_Landing_Page' });
   },
 });
+FlowRouter.route('/admin-home', {
+  name: 'Admin_Home_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'Admin_Home_Page' });
+  },
+});
 FlowRouter.route('/home', {
   name: 'Home_Page',
   action() {
@@ -17,6 +23,12 @@ FlowRouter.route('/user', {
   name: 'User_Profile_Page',
   action() {
     BlazeLayout.render('App_Body', { main: 'User_Profile_Page' });
+  },
+});
+FlowRouter.route('/vendors', {
+  name: 'Vendors_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'Vendors_Page' });
   },
 });
 FlowRouter.route('/vendor', {

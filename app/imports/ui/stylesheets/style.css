@@ -1,14 +1,17 @@
 body {
   /*font-family: 'Bungee Hairline', sans-serif;*/
-  padding-top: 61px;  /* Move body of page below navbar. */
+  padding-top: 61px; /* Move body of page below navbar. */
 }
+
 h1 {
 
   font-family: 'Bungee Hairline', sans-serif;
+  color:#b5cc18;
 
 }
+
 .public-landing-page-body {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url('/images/food1.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/food1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   height: 500px;
@@ -16,38 +19,52 @@ h1 {
   vertical-align: middle;
 
 }
-.vendor-page-body{
-  margin:20px;
-}
-.home-page-body{
-  background-color: rgba(0, 0, 0, 0.87);
 
-  min-height:400px;
+.vendor-page-body {
+  margin: 20px;
 }
-.home-page-header{
-  padding: 20px;
+
+.home-page-body {
+  background-color: rgba(0, 0, 0, 0.87);
+  /*font-family: 'Unica One', sans-serif;*/
+  font-family: 'Abel', sans-serif;
+
+  min-height: 400px;
+}
+
+.home-page-header {
+  padding-top: 20px;
+  padding-bottom: 20px;
   font-family: 'Unica One', sans-serif;
+  /*font-family: 'Megrim', sans-serif;  */
   font-size: 50px;
 
-  color:white;
+  color: white;
 }
-.food.card{
-background-color: #D3D3D3;
+
+.food.card {
+  background-color: #D3D3D3;
 }
+
 h2 {
   font-family: 'Unica One', sans-serif;
   /*font-family: 'Bungee Hairline', sans-serif;*/
   font-size: 100px;
-  color:white;
+  color: white;
   padding-top: 150px;
-  padding-bottom:0px;
+  padding-bottom: 0px;
 
 }
-h3{
-  color:white;
+
+h3 {
+  color: white;
 }
+
 footer {
-color:floralwhite;
-  background-color:rgba(0, 0, 0, 0.87);
+  color: floralwhite;
+  background-color: rgba(0, 0, 0, 0.87);
 
+}
+.item{
+  font-family: 'Unica One', sans-serif;
 }
