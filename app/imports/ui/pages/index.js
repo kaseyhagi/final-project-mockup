@@ -9,6 +9,7 @@ import './public-landing-page.html';
 import './user-profile-page.html';
 import './vendors-page.html';
 import './vendor-page.html';
+import './vendor-page-da-spot.html';
 import './admin-home-page.html';
 
 import './list-stuff-page.html';

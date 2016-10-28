@@ -37,6 +37,12 @@ FlowRouter.route('/vendor', {
     BlazeLayout.render('App_Body', { main: 'Vendor_Page' });
   },
 });
+FlowRouter.route('/vendor/da-spot', {
+  name: 'Vendor_Page_DaSpot',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'Vendor_Page_DaSpot' });
+  },
+});
 FlowRouter.route('/list', {
   name: 'List_Stuff_Page',
   action() {
